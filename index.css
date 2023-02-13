@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+p{
+    color: blue;
+    font-size: 30px;
+}
+body{
+    background-color: antiquewhite;
+    width: 100%; text-align: center;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    width: 100%; text-align: center;
+}
